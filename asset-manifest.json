@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-filter-search/static/css/main.79d19d76.css",
+    "main.js": "/react-filter-search/static/js/main.c9b88e22.js",
+    "static/js/453.98e1c1c1.chunk.js": "/react-filter-search/static/js/453.98e1c1c1.chunk.js",
+    "index.html": "/react-filter-search/index.html",
+    "main.79d19d76.css.map": "/react-filter-search/static/css/main.79d19d76.css.map",
+    "main.c9b88e22.js.map": "/react-filter-search/static/js/main.c9b88e22.js.map",
+    "453.98e1c1c1.chunk.js.map": "/react-filter-search/static/js/453.98e1c1c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.c9b88e22.js"
+  ]
+}
